@@ -1,0 +1,17 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    fun main() {
+        val number: String = 100
+        println(number)
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/4614
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/4614">JetBrains
+    Academy</a></html>
+  time: Sun, 15 Nov 2020 14:53:08 UTC
+record: -1

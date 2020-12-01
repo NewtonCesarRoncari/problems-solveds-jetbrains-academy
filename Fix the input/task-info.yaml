@@ -1,0 +1,13 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: 'val n: Int = readLine()'
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/11263
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/11263">JetBrains
+    Academy</a></html>
+  time: Sun, 15 Nov 2020 23:26:29 UTC
+record: -1
